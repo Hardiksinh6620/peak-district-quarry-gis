@@ -1,0 +1,12 @@
+{
+  "source_sha256": "37b9ab475d9fd41ec1ad02db42ce872de483c2692ceadf6c2d7e49960c3c5b42",
+  "public_sha256": "aceba76d78c0b6e39676a4b7508bd820129650584dcd2168374e4b01df4fcf74",
+  "page_count": 14,
+  "identifiers_removed": {
+    "32038459": 2,
+    "32029877": 2,
+    "31057815": 2
+  },
+  "research_text_preserved": true,
+  "prepared_on": "2026-09-30"
+}
