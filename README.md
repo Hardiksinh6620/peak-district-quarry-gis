@@ -20,3 +20,7 @@ This repository contains a privacy-safe copy of the final report plus explanator
 - [Educational example](examples/README.md)
 - [Validation checks](tests/README.md)
 - [Assigned milestone calendar](ARCHIVE_CALENDAR.md)
+
+## Later portfolio documentation
+
+- [Reconstructed portfolio notes](portfolio-notes/README.md)
