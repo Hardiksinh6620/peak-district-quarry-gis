@@ -4,3 +4,4 @@ These notes were assembled in 2026 as transparent extensions to finalized course
 
 ## Index
 - [Landscape Sensitivity: input inventory](2024/05/05-landscape-sensitivity-input-inventory.md)
+- [Observer Settings: metadata note](2024/05/12-observer-settings-metadata-note.md)
